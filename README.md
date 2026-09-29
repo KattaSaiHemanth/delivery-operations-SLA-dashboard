@@ -188,8 +188,6 @@ delivery-operations-SLA-dashboard/
 │
 ├── Delivery_Operations_Analysis.xlsx
 │
-├── Delivery_Operations_SLA_Dashboard.pbix
-│
 ├── page1_operations_overview.png
 ├── page2_sla_analysis.png
 └── page3_productivity_quality.png
